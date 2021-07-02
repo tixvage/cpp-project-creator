@@ -1,1 +1,14 @@
-basic cpp project creator
+basic cpp project creator 
+
+
+usage:
+first you have to enter your project name
+and you have to enter location of project
+
+home
+-username
+--projects
+--reqs
+--main.py
+
+if you enter projects as location of your project, it will create folder in projects
